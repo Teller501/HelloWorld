@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hej Verden");
         System.out.println("Anders");
         System.out.println("Teller");
-        System.out.println("KOM NU LIDT");
+        System.out.println("KOM NU ");
     }
 }
